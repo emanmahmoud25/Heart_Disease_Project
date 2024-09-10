@@ -43,65 +43,7 @@ The project followed these steps:
 
 ## Results
 
-### Logistic Regression
-- **Accuracy**: 0.853
-- **Precision**: 
-  - Class 0: 0.86
-  - Class 1: 0.64
-- **Recall**: 
-  - Class 0: 0.99
-  - Class 1: 0.08
-- **F1-Score**: 
-  - Class 0: 0.92
-  - Class 1: 0.14
-
-### Random Forest Regressor
-- **Accuracy**: 0.848
-- **Precision**: 
-  - Class 0: 0.86
-  - Class 1: 0.50
-- **Recall**: 
-  - Class 0: 0.97
-  - Class 1: 0.15
-- **F1-Score**: 
-  - Class 0: 0.92
-  - Class 1: 0.23
-
-### Gradient Boosting Machines (GBM)
-- **Accuracy**: 0.850
-- **Precision**: 
-  - Class 0: 0.86
-  - Class 1: 0.56
-- **Recall**: 
-  - Class 0: 0.99
-  - Class 1: 0.08
-- **F1-Score**: 
-  - Class 0: 0.92
-  - Class 1: 0.14
-
-### K-Nearest Neighbors (KNN)
-- **Accuracy**: 0.854
-- **Precision**: 
-  - Class 0: 0.87
-  - Class 1: 0.57
-- **Recall**: 
-  - Class 0: 0.98
-  - Class 1: 0.18
-- **F1-Score**: 
-  - Class 0: 0.92
-  - Class 1: 0.27
-
-### Support Vector Machines (SVM)
-- **Accuracy**: 0.852
-- **Precision**: 
-  - Class 0: 0.85
-  - Class 1: 1.00
-- **Recall**: 
-  - Class 0: 1.00
-  - Class 1: 0.03
-- **F1-Score**: 
-  - Class 0: 0.92
-  - Class 1: 0.05
+![download](https://github.com/user-attachments/assets/3a1bf706-b68a-4aa0-879a-03886b13e718)
 
 ### Model Comparison
 - **Best Accuracy**: K-Nearest Neighbors (0.854)
