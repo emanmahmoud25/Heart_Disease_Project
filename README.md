@@ -34,14 +34,16 @@ The dataset required preprocessing steps before it could be used for modeling:
 ## Methodology
 The project followed these steps:
 1. **Exploratory Data Analysis (EDA)**: Visualizations were created to understand the distribution of variables and their correlations with CHD risk.
-2. **Model Selection**: Various machine learning models were tested, including:
+   ![chk](https://github.com/user-attachments/assets/53b52068-b6dd-494e-b255-3f497866a844)
+
+3. **Model Selection**: Various machine learning models were tested, including:
    - Logistic Regression
    - Random Forest Regressor
    - Gradient Boosting Machines (GBM)
    - K-Nearest Neighbors (KNN)
    - Support Vector Machines (SVM)
-3. **Hyperparameter Tuning**: Hyperparameters were tuned to improve accuracy.
-4. **Model Evaluation**: Models were evaluated using metrics like accuracy, precision, recall, and F1-score.
+4. **Hyperparameter Tuning**: Hyperparameters were tuned to improve accuracy.
+5. **Model Evaluation**: Models were evaluated using metrics like accuracy, precision, recall, and F1-score.
 
 ## Results
 
