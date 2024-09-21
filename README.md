@@ -1,6 +1,6 @@
 
 # Heart Disease Risk Prediction
-![Uploading th.jpeg…]()
+![th](https://github.com/user-attachments/assets/f66786c7-411b-4ebc-a021-5a650f1840be)
 
 ## Project Overview
 This project aims to develop a predictive model to estimate the risk of coronary heart disease (CHD) based on various health-related factors. Using a dataset that includes demographic, lifestyle, and clinical variables, we applied machine learning techniques to create a model that predicts CHD risk.
